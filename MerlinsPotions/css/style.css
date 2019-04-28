@@ -1,0 +1,75 @@
+.header {
+    
+    padding: 10px;
+}
+
+.header .main-menu {
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 60px;
+    background-color: #523468;
+    background-size: cover;
+    
+    	
+  }
+
+  .header .main-menu .menu-item {
+    display: inline-block;
+    margin: 0 2px 22px 0;
+  }
+
+  .header .main-menu .menu-item a {
+    float: left;
+    color: white;
+    padding: 6px;
+    text-decoration: none;
+  }
+.header .main-menu .menu-item-login a {
+    float: right;
+    color: white;
+    padding: 1px;
+    text-decoration: none;
+}
+
+.header .main-menu .menu-item-login  {
+    float: right;
+    color: darkgrey;
+    padding: 6px;
+    text-decoration: none;
+}
+.header .logo {
+  position: absolute;
+  padding:0;
+  border:0;
+  height: 1px; 
+  width: 1px; 
+  
+}
+#divBusca{
+  
+  margin-left: 30%;
+  top: 56px;
+  float: left;
+  position: absolute;
+  padding:0;
+  border:0;
+  height: 1px; 
+  width: 1px; 
+}
+#shippingMsg {
+	color: #D73A1E;
+  margin: 0 2px 22px 0;
+  margin-left: 60%;	
+  float: left;
+  
+}
+#shippingMsg p:first-child {
+	font-size: 1.25em;
+  font-weight: normal;
+}
+#bag {
+  
+  margin-left: 4%;
+  float: left;
+ 
+}
